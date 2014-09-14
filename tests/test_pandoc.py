@@ -15,7 +15,7 @@ Hello
 We're loving Markdown"""
 
         expected_result = u"""\
-h1. Hello
+h1(#hello). Hello
 
 We're loving Markdown
 
